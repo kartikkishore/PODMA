@@ -133,6 +133,8 @@ Vitals breaching UCR criteria _**duration**_:
 
 # Modelling
 
+- Note: I have used and compared Generalised linear models (GLM) and Generalised Additive models (GAM) in my analysis, here is why: The main difference b/w them is that while "classical" forms of linear, or generalized linear, models assume a fixed linear or some other parametric form of the relationship between the dependent variable and the covariates, while GAMs do not assume a priori any specific form of this relationship, and can be used to reveal and estimate non-linear effects of the covariate on the dependent variable. 
+
 ## Outcome: Ketones > 1.0
 
 ### **Predictors**
@@ -240,7 +242,9 @@ Check whether the model is making sense better than the null model
 
 ![image-20201003225702583](images/image-20201003225702583.png) 
 
-As the p-value of the second model i.e. full model is signifcant (< 0.05) we reject the null hypothesis that the null model is okay. Adding the new variables decreases the degrees of freedom by 9 and deviance by 26.5 which is substantial.
+As the p-value of the second model i.e. full model is signifcant (< 0.05) we reject the null hypothesis that the null model is okay.
+- This means that addding the new variables do contribute in improving the predictive performance of the model.
+Adding the new variables decreases the degrees of freedom by 9 and deviance by 26.5 which is substantial.
 
 #### Inference
 
@@ -326,6 +330,7 @@ Seeing a lot of outliers here, ideally testing out log transform on response var
 - Procedure Grade 2, latest serum albumin and whether the surgery is an emergency or not play a signifcant role in determining the lost of stay of patients post-op.
 
 As the p-value of the second model i.e. full model is signifcant (< 0.05) we reject the null hypothesis that the null model is okay.
+- This means that addding the new variables do contribute in improving the predictive performance of the model.
 
 #### Normal GAM
 
