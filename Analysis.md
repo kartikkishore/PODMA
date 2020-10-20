@@ -153,7 +153,7 @@ Vitals breaching UCR criteria _**duration**_:
 
 # Modelling
 
-- Note: I have used and compared Generalised linear models (GLM) and Generalised Additive models (GAM) in my analysis, here is why: The main difference b/w them is that while "classical" forms of linear, or generalized linear, models assume a fixed linear or some other parametric form of the relationship between the dependent variable and the covariates, while GAMs do not assume a priori any specific form of this relationship, and can be used to reveal and estimate non-linear effects of the covariate on the dependent variable. 
+**Note:** I have used and compared Generalised linear models (GLM) and Generalised Additive models (GAM) in my analysis, here is why: The main difference b/w them is that while "classical" forms of linear, or generalized linear, models assume a fixed linear or some other parametric form of the relationship between the dependent variable and the covariates, while GAMs do not assume a priori any specific form of this relationship, and can be used to reveal and estimate non-linear effects of the covariate on the dependent variable. 
 
 ## Outcome: Ketones > 1.0
 
