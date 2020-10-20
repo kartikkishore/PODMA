@@ -43,6 +43,22 @@ Drug managed diabetes:
 |       DPP4 inhibitors        |  177  | 18.19 |    15.77    |    20.62    |
 |        GLP1 agonists         |  25   | 2.57  |    1.58     |    3.56     |
 
+`Colonoscopy / Gliflozins`
+- Out of 120 colonoscopy visits for patients, 19.17% [12.12% - 26.21%, n=23] of them were on Gliflozins while 97 were not.
+
+`John Hopkins Criteria`
+|   1   |   2   |   3   |
+| :---: | :---: | :---: |
+|  743  |  172  |   53  |
+
+`John Hopkins 1 / Gliflozins`
+- Out of 743 Procedure Grade 1 visits for patients, 12.38% [10.01% - 14.75%, n=92] of them were on Gliflozins while 651 were not.
+`John Hopkins 2 / Gliflozins`
+- Out of 172 Procedure Grade 2 visits for patients, 12.79% [7.8% - 17.78%, n=22] of them were on Gliflozins while 150 were not.
+`John Hopkins 3 / Gliflozins`
+- Out of 53 Procedure Grade 3 visits for patients, 15.09% [5.46% - 24.73%, n=8] of them were on Gliflozins while 45 were not.
+
+
 **Note**: No patient out of the selected 973 data-points fasted greater than 24 hours.
 
 Modified John Hopkins surgical criteria:
