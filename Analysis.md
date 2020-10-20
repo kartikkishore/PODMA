@@ -55,8 +55,10 @@ Drug managed diabetes:
 
 `John Hopkins 1 / Gliflozins`
 - Out of 743 Procedure Grade 1 visits for patients, 12.38% [10.01% - 14.75%, n=92] of them were on Gliflozins while 651 were not.
+
 `John Hopkins 2 / Gliflozins`
 - Out of 172 Procedure Grade 2 visits for patients, 12.79% [7.8% - 17.78%, n=22] of them were on Gliflozins while 150 were not.
+
 `John Hopkins 3 / Gliflozins`
 - Out of 53 Procedure Grade 3 visits for patients, 15.09% [5.46% - 24.73%, n=8] of them were on Gliflozins while 45 were not.
 
