@@ -43,6 +43,8 @@ Drug managed diabetes:
 |       DPP4 inhibitors        |  177  | 18.19 |    15.77    |    20.62    |
 |        GLP1 agonists         |  25   | 2.57  |    1.58     |    3.56     |
 
+# Gliflozin - in detail
+
 `Colonoscopy / Gliflozins`
 - Out of 120 colonoscopy visits for patients, 19.17% [12.12% - 26.21%, n=23] of them were on Gliflozins while 97 were not.
 
